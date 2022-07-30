@@ -4,7 +4,7 @@ Phishing detection using Machine Learning
 Dataset yang digunakan pada projek ini adalah dataset publik yang tersedia di website 
 https://trustpositif.kominfo.go.id/ <br>
 https://phishtank.org/<br>
-https://github.com <br>
+https://github.com/csirtgadgets/suspect-domains-dataset/blob/master/whitelist.txt <br>
 Dataset ini berisi informasi mengenai Website phisink dan juga website baik Tujuan utama dari penelitian ini adalah untuk memprediksi website yang di duga adalah website phisink menggunakan algoritma machine learning seperti <br>
   linear regression <br>
   naive bayes <br>
