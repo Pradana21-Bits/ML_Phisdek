@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Web Phis Prediction</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}">
+
+
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="box-form">
+	<div class="left">
+		<div class="overlay">
+		<h1>PhisDek.</h1>
+		<p>Pendeteksi Website Phising menggunakan algoritma Machine Learning menggunakan Url atau Domain Website</p>
+		<span>
+			<p>Follow My Sosial For update</p>
+			<a href="https://www.facebook.com/reza.pradana.758399/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+			<a href="https://www.instagram.com/reza_pradana_03/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+		</span>
+		</div>
+	</div>
+	
+	
+		<div class="right">
+		<h5>Welcome</h5>
+		<h4>Input URL/Domain Here !!</h4>
+		<div class="inputs">
+			<form action="{{url_for('predict')}}" class="form" method="post">
+			<input type="text" id="Domain" name="Domain">
+			<br>
+			<br>
+			<button input type="submit" value="Submit">Deteksi</button>
+			</form>
+		</div>		
+	</div>
+	
+</div>
+<!-- partial -->
+  
+</body>
+</html>
