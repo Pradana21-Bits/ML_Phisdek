@@ -11,7 +11,7 @@ Dataset ini berisi informasi mengenai Website phishing dan juga website baik Tuj
   Decision Tree Classifier <br>
   Random Forest Classifier <br>
   
-pemilihan algoritma terbaik dan mendapat akurasi terbaik akan di gunakan untuk membangun website deteksi phishing .<br>
+pemilihan algoritma terbaik dan mendapat akurasi terbaik akan di gunakan untuk membangun sistem deteksi phishing .<br>
 
 Dataset Whitelist <br>
 <link>https://raw.githubusercontent.com/csirtgadgets/csirtg-urlsml-tf-py/master/data/whitelist.txt</link><br>
