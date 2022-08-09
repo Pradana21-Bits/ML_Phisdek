@@ -6,11 +6,11 @@ https://trustpositif.kominfo.go.id/ atau https://github.com/alsyundawy/dnstrust-
 https://phishtank.org/<br>
 https://github.com/csirtgadgets/suspect-domains-dataset/blob/master/whitelist.txt <br>
 Dataset ini berisi informasi mengenai Website phisink dan juga website baik Tujuan utama dari penelitian ini adalah untuk memprediksi website yang di duga adalah website phisink menggunakan algoritma machine learning seperti <br>
+
   linear regression <br>
-  naive bayes <br>
   Decision Tree Classifier <br>
   Random Forest Classifier <br>
-  KNN
+  
 pemilihan algoritma terbaik dan mendapat akurasi terbaik akan di gunakan untuk membangun website deteksi phishing .<br>
 
 Dataset Whitelist <br>
