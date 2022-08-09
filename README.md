@@ -5,7 +5,7 @@ Dataset yang digunakan pada projek ini adalah dataset publik yang tersedia di we
 https://trustpositif.kominfo.go.id/ atau https://github.com/alsyundawy/dnstrust-apjii<br>
 https://phishtank.org/<br>
 https://github.com/csirtgadgets/suspect-domains-dataset/blob/master/whitelist.txt <br>
-Dataset ini berisi informasi mengenai Website phisink dan juga website baik Tujuan utama dari penelitian ini adalah untuk memprediksi website yang di duga adalah website phisink menggunakan algoritma machine learning seperti <br>
+Dataset ini berisi informasi mengenai Website phishing dan juga website baik Tujuan utama dari penelitian ini adalah untuk memprediksi website yang di duga adalah website phishing menggunakan algoritma machine learning seperti <br>
 
   linear regression <br>
   Decision Tree Classifier <br>
