@@ -13,7 +13,7 @@ https://lldikti5.id/evira/frontpage/alamatpt<br>
 https://lldikti2.id/pages/profil-kampus-di-wilayah-lldikti-2 <br>
 Dataset ini berisi informasi mengenai Website phishing dan juga website baik Tujuan utama dari penelitian ini adalah untuk memprediksi website yang di duga adalah website phishing menggunakan algoritma machine learning seperti <br>
 
-  linear regression <br>
+  Logistic regression <br>
   Decision Tree Classifier <br>
   Random Forest Classifier <br>
   
