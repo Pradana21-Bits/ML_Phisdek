@@ -30,4 +30,4 @@ Dataset Blacklist<br>
 <link>http://data.phishtank.com/data/online-valid.csv</link><br>
 
 
-data yang terkumpul mencapai 53576 data Url dimana 
+data yang terkumpul mencapai 53576 data Url dimana 22197 adalah phising dan 31380 adalah whitelist
